@@ -1,0 +1,8 @@
+name=Oracle Query Monitor
+version=2.2
+platforms=windows linux solaris
+description=Provides same functionality as the built-in Oracle Basic monitor but stores the query results in a numeric result for thresholding or comparison.
+restartCore=true
+requiresAgentScript=false
+onUpgradeRemoveFiles=true
+onUpgradeRemoveMonitors=false
