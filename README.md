@@ -7,21 +7,21 @@ See http://uptimesoftware.github.io for more information.
 
 ### Category
 
-{ page.category }}
+database
 
 ### Version Compatibility
 
 
   
-    * Oracle Basic (with retained data) Monitor 2.1 - 7.2, 7.1, 7.0
+* Oracle Basic (with retained data) Monitor 2.1 - 7.2, 7.1, 7.0
   
 
   
-    * Oracle Basic (with retained data) Monitor 2.0 - 6.0
+* Oracle Basic (with retained data) Monitor 2.0 - 6.0
   
 
   
-    * Oracle Basic (with retained data) Monitor 1.0 - 5.5, 5.4, 5.3
+* Oracle Basic (with retained data) Monitor 1.0 - 5.5, 5.4, 5.3
   
 
 
@@ -45,12 +45,25 @@ None; no agent required
 
 
 ### Input Variables
-* db port (1521)* db user name* db password* db query
+
+* db port (1521)
+
+* db user name
+
+* db password
+
+* db query
+
 
 ### Output Variables
 
-* numeric result* text result
+
+* numeric result
+
+* text result
+
 
 ### Languages Used
+
 * Java
 
